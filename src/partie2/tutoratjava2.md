@@ -28,11 +28,11 @@ Dans Java grâce à l'héritage :
 - On pourra dire qu'une créature est une entité et donc faire tout ce que peut faire l'entité avec.
 - Par contre on ne pourra pas forcément dire l'inverse, car en tombant sur une entité au hasard on n'aura aucune garantie qu'il s'agit plutôt d'un bloc que d'une créature et vice-versa.
 
-**Consignes :** 
-    1. créez les classes `Creature` et `Block` héritant d'`Entity`
-    2. créez une classe avec un `main`
-    3. testez de déclarer une variable de type `Entity` mais de lui assigner un bloc ou une créature à la place
-    4. essayez de transformer une entité (qui en réalité est un bloc ou une créature) en un bloc ou une créature
+**Consignes :**
+1. créez les classes `Creature` et `Block` héritant d'`Entity`
+2. créez une classe avec un `main`
+3. testez de déclarer une variable de type `Entity` mais de lui assigner un bloc ou une créature à la place
+4. essayez de transformer une entité (qui en réalité est un bloc ou une créature) en un bloc ou une créature
 
 ## Correction exercice 1
 Version 1 : propriétés et initialisation avec un constructeur
