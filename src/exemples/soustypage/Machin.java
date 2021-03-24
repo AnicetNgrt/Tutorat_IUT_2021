@@ -1,4 +1,4 @@
-package anicet.soustypage;
+package src.exemples.soustypage;
 
 // Object -> Truc -> Machin
 

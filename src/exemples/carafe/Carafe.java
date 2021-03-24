@@ -1,4 +1,4 @@
-package java.carafe;
+package src.exemples.carafe;
 
 public class Carafe {
 

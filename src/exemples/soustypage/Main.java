@@ -1,4 +1,4 @@
-package anicet.soustypage;
+package src.exemples.soustypage;
 
 import java.util.ArrayList;
 import java.util.List;
