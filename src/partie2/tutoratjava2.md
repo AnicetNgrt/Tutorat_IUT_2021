@@ -8,7 +8,7 @@ Markus Person a encore besoin de vous ! Saurez-vous l'aider à créer Minecraft 
 
 Minecraft est composé d'entités. Une entité c'est n'importe quelle chose qu'on peut trouver dans le monde de Minecraft : un bloc, un monstre, un joueur...
 
-Plus précisemment, c'est n'importe quelle chose qu'on peut trouver dans l'espace en trois dimensions du jeu.
+Plus précisément, c'est n'importe quelle chose qu'on peut trouver dans l'espace en trois dimensions du jeu.
 
 Une entité a quelques propriétés simples :
 - Un identifiant unique (par exemple 1 ou 0 ou 135) pour pouvoir la retrouver plus tard. Cet identifiant commence à 0 et augmente pour chaque entité crée.
