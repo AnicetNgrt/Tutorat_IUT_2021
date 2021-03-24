@@ -23,10 +23,10 @@ Par exemple, les blocs peuvent être cassés ou posés. Mais les créatures peuv
 
 Quand on a ce genre de cas de figure en Java on peut se servir de l'héritage. Il va nous permettre de partager des choses entre plusieurs objets. Ici on va partager le fait d'être une entité entre les créatures et les blocs.
 
-Donc dans Java grâce à l'héritage :
-- On pourra donc dire qu'un bloc est une entité et donc faire tout ce que peut faire l'entité avec.
-- On pourra donc dire qu'une créature est une entité et donc faire tout ce que peut faire l'entité avec.
-- Par contre on ne pourra pas forcément dire l'inverse, car en tombant sur une entité on n'aura aucune garantie qu'il s'agit plutôt d'un bloc que d'une créature et vice-versa.
+Dans Java grâce à l'héritage :
+- On pourra dire qu'un bloc est une entité et donc faire tout ce que peut faire l'entité avec.
+- On pourra dire qu'une créature est une entité et donc faire tout ce que peut faire l'entité avec.
+- Par contre on ne pourra pas forcément dire l'inverse, car en tombant sur une entité au hasard on n'aura aucune garantie qu'il s'agit plutôt d'un bloc que d'une créature et vice-versa.
 
 **Consignes :** 
     1. créez les classes `Creature` et `Block` héritant d'`Entity`
